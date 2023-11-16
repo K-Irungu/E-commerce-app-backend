@@ -1,4 +1,4 @@
-# MERN_build_backend
+# Tech_essentials
 This is the backend to a the full-stack web application Tech_essentials. The server is built using Node.js with express and uses MongoDB to store the data.
 
 ## Actions
